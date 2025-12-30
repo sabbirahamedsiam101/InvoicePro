@@ -1,0 +1,7 @@
+{
+  "name": "Professional Invoice Generator",
+  "description": "A high-performance, single-page React application for creating, customizing, and printing professional invoices with real-time preview, brand color integration, and signature support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
