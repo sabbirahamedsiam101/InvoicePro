@@ -8,11 +8,11 @@ import InvoicePreview from './components/InvoicePreview';
 const INITIAL_STATE: InvoiceData = {
   business: {
     brandColor: '#2563eb',
-    name: 'Dacey Gregory',
+    name: 'OneSphere Solution',
     address: 'Corporis ut ea asper',
-    email: 'vupefotagi@mailinator.com',
+    email: 'clientcare.onespheresolution@gmail.com',
     phone: '+1 (335) 164-5254',
-    website: 'https://www.kepaguzaloc.tv',
+    website: 'https://onespheresolution.com',
     taxId: 'Ea velit quo iusto'
   },
   client: {
@@ -40,7 +40,7 @@ const INITIAL_STATE: InvoiceData = {
     terms: 'Payment is due within 30 days of invoice date...',
     thankYouMessage: 'Thank you for your business!',
     signatureType: 'text',
-    signatureText: 'Dacey Gregory'
+    signatureText: 'Sabbir'
   }
 };
 
